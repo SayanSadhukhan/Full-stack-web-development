@@ -1,0 +1,93 @@
+body{
+	background-color: #fff;
+	height: 1400px;
+	width: 100%;
+	font-size:16px;
+	font-family: 'oxygen',sans-serif;
+}
+#header-nav {
+	background-color: #84370A;
+	border-radius: 0;
+	border: 0;
+}
+.company{
+	color: white;
+}
+
+
+
+
+#nav-list{
+	 margin-top:10px;	
+}
+#nav-list a {
+	color: white;
+	text-align:center; 
+}
+#nav-list a:hover {
+	background: black;
+}
+#nav-list a span{
+	font-size: 1.5em;
+}
+
+#phone{
+	margin-top: 5px;
+}
+#phone a {
+	text-align: right;
+	padding-bottom: 0;
+}
+#phone div{
+	color: white;
+	text-align: right;
+	padding-right: 15px;
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+.navbar-header button.navbar-toggle{
+                    clear :both;
+                    margin-top: -30px;
+} 
+
+.navabr-header{
+	padding-top: 0px;
+}
+/* END HEADER*/
+
+
+
+#tile1, #tile2, #tile3{
+	height:1000px;
+	width: 100%;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid black;
+	overflow: hidden;
+	text-align: center
+}
+
+/* 
+#tile1 section, #tile2 span, #tile3 span{
+
+	position:absolute;
+	top:  0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.6em;
+	background-color: #84370A;
+	color: #000;
+
+} */
+
+ #text{
+	position: absolute;
+	background-color:orange ;
+	height: 1500px;
+
+	
+
+}
