@@ -4,10 +4,10 @@ My first Peer-graded assignment
 ### *PEER-GRADED-ASSIGNMENT*
 
 # Assignment2: SOLUTION LINK:
-[This will redirect you to my page](https://sayansadhukhan.github.io/Module_2-assignment/mod2_soln/)
+[This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/mod2_soln/)
 
 # Assignment3: SOLUTION LINK:
-[This will redirect you to my page](https://sayansadhukhan.github.io/Module_2-assignment/mod3_soln/)
+[This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/mod3_soln/)
 
 # Assignment4: SOLUTION LINK:
-[This will redirect you to my page](https://sayansadhukhan.github.io/Module_2-assignment/mod4_soln/)
+[This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/mod4_soln/)
