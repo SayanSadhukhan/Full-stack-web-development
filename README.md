@@ -13,4 +13,4 @@ My first Peer-graded assignment
 [This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/mod4_soln/)
 
 # Assignment5: SOLUTION LINK:
-[This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/module-5-solution/)
+[This will redirect you to my page](https://sayansadhukhan.github.io/Full-stack-web-development/module-5/)
